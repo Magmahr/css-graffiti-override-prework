@@ -19,7 +19,7 @@ div#wall .parent div#tag-5.slick {
   display: none;
 }
 
-body div#wall {
+body div#wall div.parent {
   display: none;
 }
 
